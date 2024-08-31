@@ -22,19 +22,5 @@
       <guid>https://ponponcat.github.io/posts/%E5%B0%8F%E6%97%A5%E5%AD%90%E5%BE%8C%E8%83%8C%E5%8C%85/index.zh-tw/</guid>
       <description>小日子後背包作品分享 一咖適合平日攜帶的後背包 </description>
     </item>
-    <item>
-      <title>Introduction</title>
-      <link>https://ponponcat.github.io/posts/what-is-hugo/</link>
-      <pubDate>Sat, 03 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>https://ponponcat.github.io/posts/what-is-hugo/</guid>
-      <description>&lt;p&gt;Hugo is an open-source project and lives by the work of its contributors. There are plenty of open issues, and we need your help to make Hugo even more awesome. You don&amp;rsquo;t need to be a Go guru to contribute to the project&amp;rsquo;s development.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>What is Hugo</title>
-      <link>https://ponponcat.github.io/posts/introduction/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://ponponcat.github.io/posts/introduction/</guid>
-      <description>&lt;p&gt;Hugo is a fast and modern static site generator written in Go, and designed to make website creation fun again.&lt;/p&gt;</description>
-    </item>
   </channel>
 </rss>
